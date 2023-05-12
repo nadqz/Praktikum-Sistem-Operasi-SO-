@@ -11,6 +11,6 @@ Sementara perintah -m di bawah ini untuk menampilkan memori yang tersedia dalam 
 free -m
 free -h
 ```
-![alt text](?raw=true)
+![alt text](https://github.com/nadqz/Doc-So/blob/main/Screenshot%202023-05-12%20081258.png?raw=true)
 ### CPU
 ### Hardisk
