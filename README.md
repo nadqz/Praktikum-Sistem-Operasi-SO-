@@ -11,7 +11,7 @@ Sementara perintah -m di bawah ini untuk menampilkan memori yang tersedia dalam 
 free -m
 free -h
 ```
-![alt text](https://github.com/nadqz/Doc-So/blob/main/Screenshot.png?raw=true)
+![alt text](https://github.com/nadqz/Praktikum-Sistem-Operasi-SO-/blob/main/dokumentasi/RAM.png)
 
 ### CPU
 Kita dapat menggunakan perintah seperti di bawah ini untuk menunjukkan service yang sedang berjalan.
